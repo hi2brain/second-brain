@@ -70,6 +70,25 @@ Second Brain est open-source et gratuit pour la communauté. Si cet outil vous a
 
 <a href="https://www.buymeacoffee.com/2brain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
+## ❓ FAQ (Foire Aux Questions)
+
+**1. Est-ce vraiment 100% gratuit ?**
+Oui ! L'application est open-source et totalement gratuite. Il vous suffit de créer un compte gratuit sur Groq pour obtenir votre clé API, qui offre actuellement un forfait gratuit extrêmement généreux.
+
+**2. Le recruteur peut-il voir ou entendre l'IA ?**
+Non. Second Brain s'exécute comme une fenêtre indépendante sur votre écran. Il n'injecte pas d'audio dans votre microphone et ne partage pas votre écran. Il est totalement invisible pour le recruteur.
+
+**3. Mes données sont-elles en sécurité ? Sauvegardez-vous mon CV ?**
+Votre confidentialité est notre priorité absolue. Nous n'avons pas de base de données. Votre clé API, votre CV et la description du poste sont sauvegardés strictement dans le `localStorage` de votre propre ordinateur. Rien n'est envoyé à nos serveurs (car nous n'en avons pas !).
+
+**4. Pourquoi l'IA met-elle du temps à répondre ?**
+L'IA attend que le recruteur termine un raisonnement complet avant de générer une réponse. Elle analyse le contexte par intervalles de 7 secondes pour s'assurer de bien comprendre la question avant de vous fournir le script.
+
+**5. Cela fonctionne-t-il sur Mac ou Linux ?**
+Actuellement, les versions automatisées (Releases) fournissent un programme d'installation `.exe` pour Windows. Cependant, comme il s'agit d'une application Electron, vous pouvez facilement cloner ce dépôt et exécuter `npm run dist` pour compiler pour macOS ou Linux.
+
+---
+
 ## 📝 Licence
 
 Distribué sous une Licence Non Commerciale. Vous êtes libre d'utiliser et d'étudier le logiciel, mais **la vente ou la distribution commerciale est strictement interdite**. Voir le fichier `LICENSE` pour plus d'informations.

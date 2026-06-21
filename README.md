@@ -70,6 +70,25 @@ Second Brain is open-source and free for the community. If this tool helped you 
 
 <a href="https://www.buymeacoffee.com/2brain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
+## ❓ FAQ
+
+**1. Is it really 100% free?**
+Yes! The application is open-source and entirely free. You only need to create a free account on Groq to get your API key, which currently offers extremely generous free tiers.
+
+**2. Can the recruiter see or hear the AI?**
+No. Second Brain runs as an independent window on your screen. It does not inject audio into your microphone feed and does not share your screen. It is completely invisible to the interviewer.
+
+**3. Is my data safe? Do you save my resume?**
+Your privacy is our absolute priority. We do not have a database. Your API key, your resume, and the job description are saved strictly in your computer's `localStorage`. Nothing is sent to our servers (because we don't have any!).
+
+**4. Why is the AI not answering immediately?**
+The AI waits for the interviewer to finish a complete thought before generating an answer. It analyzes the context in 7-second intervals to ensure it understands the full question before giving you the script.
+
+**5. Does it work on Mac or Linux?**
+Currently, the automated releases provide a `.exe` installer for Windows. However, since it is an Electron app, you can easily clone this repository and run `npm run dist` to build it for macOS or Linux.
+
+---
+
 ## 📝 License
 
 Distributed under a Custom Non-Commercial License. You are free to use and study the software, but **commercial distribution or sale is strictly prohibited**. See `LICENSE` for more information.

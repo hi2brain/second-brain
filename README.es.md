@@ -70,6 +70,25 @@ Second Brain es open-source y gratuito para la comunidad. Si esta herramienta te
 
 <a href="https://www.buymeacoffee.com/2brain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
+## ❓ FAQ (Preguntas Frecuentes)
+
+**1. ¿Es realmente 100% gratis?**
+¡Sí! La aplicación es de código abierto y totalmente gratuita. Solo necesitas crear una cuenta gratuita en Groq para obtener tu clave de API, que actualmente ofrece un plan gratuito extremadamente generoso.
+
+**2. ¿El reclutador puede ver o escuchar la IA?**
+No. Second Brain se ejecuta como una ventana independiente en tu pantalla. No inyecta audio en tu micrófono y no comparte tu pantalla. Es completamente invisible para el entrevistador.
+
+**3. ¿Están seguros mis datos? ¿Guardan mi currículum?**
+Tu privacidad es nuestra prioridad absoluta. No tenemos base de datos. Tu clave de API, tu currículum y la descripción de la vacante se guardan estrictamente en el `localStorage` de tu propio ordenador. Nada se envía a nuestros servidores (¡porque no tenemos ninguno!).
+
+**4. ¿Por qué la IA tarda en responder?**
+La IA espera a que el entrevistador termine un razonamiento completo antes de generar una respuesta. Analiza el contexto en intervalos de 7 segundos para asegurarse de que ha entendido la pregunta completa antes de darte el guion.
+
+**5. ¿Funciona en Mac o Linux?**
+Actualmente, las versiones automatizadas (Releases) proporcionan un instalador `.exe` para Windows. Sin embargo, dado que es una aplicación Electron, puedes clonar fácilmente este repositorio y ejecutar `npm run dist` para compilar para macOS o Linux.
+
+---
+
 ## 📝 Licencia
 
 Distribuido bajo una Licencia No Comercial. Eres libre de usar y estudiar el software, pero **la venta o distribución comercial está estrictamente prohibida**. Consulta el archivo `LICENSE` para más información.
