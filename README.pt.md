@@ -8,7 +8,7 @@
 
 <br/>
 
-O **Second Brain** é um assistente de desktop invisível e ultrarrápido criado para ajudar profissionais do mundo todo a brilharem em suas entrevistas de emprego. Ele roda silenciosamente em segundo plano, ouvindo a entrevista, e gera sugestões de resposta em primeira pessoa baseadas no seu próprio currículo e na descrição da vaga.
+O **Second Brain** é um assistente de desktop 100% gratuito e invisível criado para ajudar profissionais do mundo todo a brilharem em suas entrevistas de emprego. Ele roda silenciosamente em segundo plano, ouvindo a entrevista, e gera sugestões de resposta em primeira pessoa baseadas no seu próprio currículo e na descrição da vaga.
 
 Alimentado pela inferência ultrarrápida da Llama-3 da [Groq](https://groq.com) e pelo modelo Whisper-large-v3, todo o processo — desde a captura de voz até a sugestão inteligente — acontece em milissegundos.
 

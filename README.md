@@ -8,7 +8,7 @@
 
 <br/>
 
-**Second Brain** is an ultra-fast, invisible desktop assistant built to help professionals worldwide ace their job interviews. It runs quietly in the background, listening to the interview, and generates context-aware, first-person suggestions based on your own resume and the job description.
+**Second Brain** is a 100% free, invisible desktop assistant built to help professionals worldwide ace their job interviews. It runs quietly in the background, listening to the interview, and generates context-aware, first-person suggestions based on your own resume and the job description.
 
 Powered by [Groq's](https://groq.com) lightning-fast Llama-3 inference and Whisper-large-v3, the entire process—from voice capture to intelligent suggestion—happens in milliseconds.
 
